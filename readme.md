@@ -21,7 +21,7 @@
 
 ### Week 6 (11/26): [Computer vision and linguistic analysis](https://github.com/lmccart/AppropriatingInteractionTechnologies/wiki/Computer-vision-and-linguistic-analysis)
 
-###Week 7 (12/3): Final presentations
+###Week 7 (12/3): Final presentations and [assignment](https://github.com/lmccart/AppropriatingInteractionTechnologies/wiki/Final-assignment)
 
 
 ## Important links
